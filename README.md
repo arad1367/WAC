@@ -1,6 +1,7 @@
 # WAC (Knowledge-Management Startup at Technical University of Dresden)
 # Instructor : Pejman Ebrahimi (Founder and Manager of Giltech Megoldások kft.)
 Pejman is a Python developer, Machine learning engineer, quantitative researcher and Instructor.
+Email to instructor: info@giltech-support.co.uk
 
 Zellescher Weg 20 b, 01217 Dresden, Germany registration@world-academies.com
 
