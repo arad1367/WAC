@@ -5,7 +5,7 @@ Pejman is a Python developer, Machine learning engineer, quantitative researcher
 Zellescher Weg 20 b, 01217 Dresden, Germany registration@world-academies.com
 
 ### Course Content and Agenda:
-Applications
+
 # Section I- Introduction to Python Programing
 * Session 1- Data type, operators, variables, string, formatted string, sets.
 * Session 2- List, Tuple, dictionary, conditional logic, For loop
