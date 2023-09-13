@@ -14,8 +14,8 @@ Zellescher Weg 20 b, 01217 Dresden, Germany registration@world-academies.com
 * Session 4- Function and scope in Python, Functional programming
 * Session 5- Object oriented programming (OOP) & Error handling & Modules
 # Section II- Introduction to Machine Learning
-* Session 6- Different approaches in Machine Learning, Pandas library
-* Session 7- Numpy, Matplotlib
-* Session 8- Machine learning with scikit-learn (Supervised learning: Regression)
-* Session 9- Machine learning with scikit-learn (Supervised learning: Classification)
-* Session 10- Deep Learning
+* Session 6- Pandas, Numpy, Matplotlib and Introduction to scikit-learn
+* Session 7- Machine learning with scikit-learn (Supervised learning: Regression)
+* Session 8- Machine learning with scikit-learn (Supervised learning: Classification)
+* Session 9- Deep Learrnin part 1
+* Session 10- Deep Learning part 2
