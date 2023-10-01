@@ -17,5 +17,4 @@ Zellescher Weg 20 b, 01217 Dresden, Germany registration@world-academies.com
 * Session 6- Pandas, Numpy
 * Session 7- Matplotlib, Machine learning with scikit-learn (Supervised learning: Regression)
 * Session 8- Machine learning with scikit-learn (Supervised learning: Classification)
-* Session 9- Deep Learrnin part 1
-* Session 10- Deep Learning part 2
+* Session 9- Introduction to Deep Learrning
